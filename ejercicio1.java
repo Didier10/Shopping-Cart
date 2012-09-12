@@ -12,6 +12,7 @@ public class Estudiante {
 		 Estudiante e1  = new Estudiante("Juana", 20, "Sistemas");
 		 Estudiante e2  = new Estudiante("Pacho", 18, "Español");
 		 System.out.println(e1.nombre+": "+e1.edad);
+		 System.out.println(e2.nombre+": "+e2.edad);
 	 }
 	 
 	 /**
